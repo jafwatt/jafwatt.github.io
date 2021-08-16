@@ -1,0 +1,47 @@
+html {
+	color: #000000;
+	background-color: #e0e0e0;
+	font-family: serif;
+	font-size: larger;
+}
+
+a {
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.copyright {
+	margin-top: 100px;
+}
+
+.menu {
+	margin-bottom: 20px;
+}
+
+.menu-item {
+	font-size: x-large;
+	margin: 10px;
+}
+
+.post {
+	background-color: #ffffff;
+	border-radius: 15px;
+	max-width: 800px;
+	margin-bottom: 100px;
+	padding: 20px;
+	text-align: left;
+}
+
+.post-title {
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+.post-date {
+	font-weight: bold;
+	font-style: italic;
+}
