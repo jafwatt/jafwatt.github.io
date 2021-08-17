@@ -1,12 +1,12 @@
 html {
-	color: #000000;
-	background-color: #e0e0e0;
-	font-family: serif;
+	color: #d0fff0;
+	background-color: #203040;
+	font-family: 'Roboto', sans-serif;
 	font-size: larger;
 }
 
 a {
-	font-weight: bold;
+	color: #a0d0ff;
 	text-decoration: none;
 }
 
@@ -15,7 +15,8 @@ a:hover {
 }
 
 .copyright {
-	margin-top: 100px;
+	font-size: smaller;
+	margin-top: 100px;	
 }
 
 .menu {
@@ -27,9 +28,10 @@ a:hover {
 	margin: 10px;
 }
 
-.post {
+.post {	
 	background-color: #ffffff;
 	border-radius: 15px;
+	color: #000000;
 	max-width: 800px;
 	margin-bottom: 100px;
 	padding: 20px;
@@ -42,6 +44,8 @@ a:hover {
 }
 
 .post-date {
-	font-weight: bold;
+	color: #404040;
+	font-size: smaller;
 	font-style: italic;
+	font-weight: bold;
 }
