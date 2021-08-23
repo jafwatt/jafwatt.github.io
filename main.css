@@ -14,6 +14,10 @@ a:hover {
 	text-decoration: underline;
 }
 
+h1, h2, h3 {
+	margin-top: 50px;
+}
+
 .copyright {
 	font-size: smaller;
 	margin-top: 100px;	
